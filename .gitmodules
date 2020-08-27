@@ -4,3 +4,6 @@
 [submodule "aula-3-pam"]
 	path = aula-3
 	url = https://github.com/damiiani/aula-3-pam
+[submodule "aula-4-pam"]
+	path = aula-4
+	url = https://github.com/damiiani/aula-4-pam
